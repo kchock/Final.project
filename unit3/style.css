@@ -6,13 +6,12 @@ body {
   background: url('Assets/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  color: #525A6A;
+  color: #fff;
   background-color: rgb(82,90,106);
 }
 
 hr {
-  width: 32px;
-  height: 3px;
+  width: 42px;
   border-color: rgb(244,86,88);
 }
 
