@@ -19,7 +19,6 @@ nav {
   background-color: #ffffff;
   text-decoration: none;
   display: inline-block;
-  float:right;
 }
 a {
   background-color: #ffffff;
@@ -47,7 +46,6 @@ p {
   padding-bottom: -5px;
 <<<<<<< Updated upstream
   font-size: 1.4em;
-   font-family: Playfair+Display;
 }
 =======
   font-size: 1.4em;
