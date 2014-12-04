@@ -41,15 +41,12 @@ a:hover {
   padding-top: 1.5em;
 }
 p {
-  text-align: center;
   padding-top: 1.5em;
   padding-bottom: -5px;
-<<<<<<< Updated upstream
   font-size: 1.4em;
 }
-=======
-  font-size: 1.4em;
-  font-family: Playfair Display;
+section p, section h1 {
+  color:#fff;
 }
 .clearfix:after {
   visibility: hidden;
