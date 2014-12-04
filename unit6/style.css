@@ -14,6 +14,7 @@ section {
 }
 section div {
   margin:0 auto;
+  padding:3em 0 0;
   width:600px;
 }
 footer {
@@ -47,14 +48,18 @@ div p {
   font-size:1.4em;
 }
 div a {
+  background:none;
   border:3px #fff solid;
   color:#fff;
   display:block;
+  margin:0;
   padding:.5em 1em;
+  width:auto;
 }
 div a:hover {
   background:#fff;
   color:#222;
+  transition-duration:.5s;
 }
 #logo {
   display: block;
