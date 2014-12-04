@@ -6,8 +6,16 @@ body {
 section {
   background:url('header.jpg') no-repeat;
   background-size:cover;
-  height:80vh;
+  height:70vh;
+  padding:0;
   text-align:left;
+}
+section div {
+  margin:0 auto;
+  width:600px;
+}
+div p {
+  font-size:1.4em;
 }
 footer {
   text-align: center;
@@ -24,15 +32,17 @@ a {
   background-color: #ffffff;
   color: #222;
   display: inline-block;
-  margin: 1em;
-  padding: 1em;
+  margin: 0 1em;
+  padding: .5em 1em;
   text-decoration: none;
   width: 7em;
-  /*clear: both;*/
 }
 a:hover {
   background-color: #222;
   color: white;
+}
+h1 {
+  font-size:2em;
 }
 #logo {
   display: block;
@@ -41,9 +51,6 @@ a:hover {
   padding-top: 1.5em;
 }
 p {
-  padding-top: 1.5em;
-  padding-bottom: -5px;
-  font-size: 1.4em;
 }
 section p, section h1 {
   color:#fff;
